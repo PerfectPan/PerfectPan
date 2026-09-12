@@ -1,0 +1,8 @@
+{
+  "title": "PerfectPan",
+  "capture": { "width": 1760, "height": 560, "fps": 20, "startSeconds": 3, "frameCount": 100 },
+  "output": { "width": 1320, "height": 420, "crossfadeFrames": 20 },
+  "typography": { "fontSize": 99.84, "weight": 600, "letterSpacing": -2.9952, "color": "#9faabc" },
+  "background": "#101014",
+  "galaxy": { "mouseInteraction": false }
+}

@@ -6,3 +6,5 @@ The capture runs the component's default dark settings with mouse interaction di
 
 - `profile-stars.gif`: 1320 × 420, 80 frames, 20 fps, 4-second loop, displayed at up to 880 pixels wide.
 - `profile-stars.png`: static fallback for visitors who prefer reduced motion.
+
+The [complete renderer source and reproduction guide](../tools/banner/README.md) are stored in this repository.
