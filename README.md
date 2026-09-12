@@ -1,5 +1,5 @@
-![Nyx — a terminal-style banner](./assets/nyx-terminal.svg)
+![PerfectPan — a terminal-style banner](./assets/profile-terminal.svg)
 
-I'm Nyx, currently at **ByteDance**. Outside of work, I develop independent projects and contribute to open source.
+I'm PerfectPan, currently at **ByteDance**. Outside of work, I develop independent projects and contribute to open source.
 
 [Blog](https://perfectpan.org/) · [Projects](https://github.com/PerfectPan?tab=repositories)
