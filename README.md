@@ -1,24 +1,16 @@
-![](https://visitor-badge.glitch.me/badge?page_id=PerfectPan.PerfectPan)
+# Hi, I'm Nyx
 
-<!--
-**PerfectPan/PerfectPan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build developer tools, with recent work on AI coding workflows and MoonBit libraries. You may also know me as **PerfectPan**.
 
-Here are some ideas to get you started:
+[Blog](https://perfectpan.org/) · [All repositories](https://github.com/PerfectPan?tab=repositories)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected projects
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=PerfectPan&count_private=true&show_icons=true&theme=material-palenight" />
-</div>
+- **[svgo.mbt](https://github.com/PerfectPan/svgo.mbt)**: An SVG optimizer written in MoonBit, available as a WebAssembly module, a CLI, and a library.
+- **[agent-task-loop](https://github.com/PerfectPan/agent-task-loop)**: A CLI that takes AI coding tasks through execution, review, rework, and pull request handoff.
+- **[ocvm](https://github.com/PerfectPan/ocvm)**: A Rust version manager for installing, pinning, switching, and rolling back OpenClaw versions per project.
+- **[logseq-plugin-code-formatter](https://github.com/PerfectPan/logseq-plugin-code-formatter)**: Format code blocks in Logseq with Prettier.
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PerfectPan&layout=compact&theme=material-palenight" />
-</div>
+## Writing
+
+I write at [perfectpan.org](https://perfectpan.org/). The [blog source](https://github.com/PerfectPan/blog) is on GitHub.
